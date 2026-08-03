@@ -1,16 +1,14 @@
-## Hi there 👋
+## Watusi
 
-<!--
-**watusiii/watusiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I live, I dream, I code, I am.
 
-Here are some ideas to get you started:
+**[Tone Designer](https://github.com/watusiii/tonedesigner-app)** — browser modular synth. Patch it visually, it exports working Tone.js code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Micrographic Engine](https://github.com/watusiii/micrographics-engine)** — generative typography. OpenType + Paper.js.
+
+YouTube Channel / Community → https://www.youtube.com/@vivacarta
+
+Design practice → **[Extendo](https://extendo.bet)**. Philosophy at **[Viva Carta](https://vivacarta.net)**.
+
+Personal Site → **[watusi.cloud](https://watusi.cloud)**
+Building something and want help? → laervin.lightray@gmail.com
