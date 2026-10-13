@@ -6,9 +6,9 @@ I live, I dream, I code, I am.
 
 **[Micrographic Engine](https://github.com/watusiii/micrographics-engine)** — generative typography. OpenType + Paper.js.
 
-YouTube Channel / Community → https://www.youtube.com/@vivacarta
+YouTube Channel → https://www.youtube.com/@vivacarta
 
-Design practice → **[Extendo](https://extendo.bet)**. Philosophy at **[Viva Carta](https://vivacarta.net)**.
+Design practice → **[Extendo](https://extendo.bet)**. 
 
 Personal Site → **[watusi.cloud](https://watusi.cloud)**
 Building something and want help? → laervin.lightray@gmail.com
